@@ -1,0 +1,13 @@
+C:\Users\Mohammed\source\repos\FinalExamConsoleApp\FinalExamConsoleApp\obj\Debug\netcoreapp3.1\FinalExamConsoleApp.csprojAssemblyReference.cache
+C:\Users\Mohammed\source\repos\FinalExamConsoleApp\FinalExamConsoleApp\obj\Debug\netcoreapp3.1\FinalExamConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Mohammed\source\repos\FinalExamConsoleApp\FinalExamConsoleApp\obj\Debug\netcoreapp3.1\FinalExamConsoleApp.AssemblyInfo.cs
+C:\Users\Mohammed\source\repos\FinalExamConsoleApp\FinalExamConsoleApp\obj\Debug\netcoreapp3.1\FinalExamConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\source\repos\FinalExamConsoleApp\FinalExamConsoleApp\bin\Debug\netcoreapp3.1\FinalExamConsoleApp.exe
+C:\Users\Mohammed\source\repos\FinalExamConsoleApp\FinalExamConsoleApp\bin\Debug\netcoreapp3.1\FinalExamConsoleApp.deps.json
+C:\Users\Mohammed\source\repos\FinalExamConsoleApp\FinalExamConsoleApp\bin\Debug\netcoreapp3.1\FinalExamConsoleApp.runtimeconfig.json
+C:\Users\Mohammed\source\repos\FinalExamConsoleApp\FinalExamConsoleApp\bin\Debug\netcoreapp3.1\FinalExamConsoleApp.runtimeconfig.dev.json
+C:\Users\Mohammed\source\repos\FinalExamConsoleApp\FinalExamConsoleApp\bin\Debug\netcoreapp3.1\FinalExamConsoleApp.dll
+C:\Users\Mohammed\source\repos\FinalExamConsoleApp\FinalExamConsoleApp\bin\Debug\netcoreapp3.1\FinalExamConsoleApp.pdb
+C:\Users\Mohammed\source\repos\FinalExamConsoleApp\FinalExamConsoleApp\obj\Debug\netcoreapp3.1\FinalExamConsoleApp.dll
+C:\Users\Mohammed\source\repos\FinalExamConsoleApp\FinalExamConsoleApp\obj\Debug\netcoreapp3.1\FinalExamConsoleApp.pdb
+C:\Users\Mohammed\source\repos\FinalExamConsoleApp\FinalExamConsoleApp\obj\Debug\netcoreapp3.1\FinalExamConsoleApp.genruntimeconfig.cache
